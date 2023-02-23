@@ -1,2 +1,2 @@
 # ShiftSwift
- A package delivery appllication(python-pathfinding)
+ A package delivery appllication(php-pathfinding)
